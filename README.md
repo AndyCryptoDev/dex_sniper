@@ -57,7 +57,7 @@ We will be asked to enter some information about ourselves: two-letter country c
 
 <img width="464" alt="2" src="https://user-images.githubusercontent.com/103894785/163727879-9b995bfa-3f88-47ad-b7c1-40748ab255f4.png">
 
-4) Get web socket and swagger api from https://moralis.io 
+4) Get web socket and swagger api from [moralis](https://legacy.moralis.io/)
 
 Register and follow the steps shown in the picture:
 
