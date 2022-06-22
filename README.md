@@ -45,3 +45,28 @@ git clone https://github.com/AndyCryptoDev/fast_sniper.git
 ```bash
 cd fast_sniper && chmod +x ./installserverbash.sh && ./installserverbash.sh
 ```
+A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
+
+We will be asked to enter some information about ourselves: two-letter country code, organization name, etc. If you don't want to write anything, put a dot in the box.
+
+## IMPORTANT: when you get to the point to enter "Common Name", you must write the IP address of the server on which the bot will run.
+
+<img width="769" alt="1" src="https://user-images.githubusercontent.com/103894785/163726255-60755381-a169-4076-a4dc-39e5edb47de8.png">
+
+3) Creating a bot via https://t.me/BotFather in telegram
+
+<img width="464" alt="2" src="https://user-images.githubusercontent.com/103894785/163727879-9b995bfa-3f88-47ad-b7c1-40748ab255f4.png">
+
+4) Get web socket and swagger api from https://moralis.io 
+
+Register and follow the steps shown in the picture:
+
+![3](https://user-images.githubusercontent.com/103894785/163727778-66abae72-28c4-4b4f-8069-9718dea9ffb0.jpg)
+
+![4](https://user-images.githubusercontent.com/103894785/163727789-01962dc3-8e4a-4a33-970b-64513cecc1c2.jpg)
+
+![6](https://user-images.githubusercontent.com/103894785/163727795-b6094e06-382f-451b-8213-548b25992f73.jpg)
+
+Insert the WS and Swagger API into the config file
+
+5) Filling out the config file
