@@ -76,3 +76,8 @@ nano config_snp.py
 ```
 ![image](https://user-images.githubusercontent.com/103894785/175092858-f1999e97-06ad-41db-b050-66b9537c39fa.png)
 
+
+[Video manual for Server purchase and software setup](https://www.youtube.com/watch?v=x-pgLICXQ18)
+
+
+[Video manual for Setting up a server for the bot](https://www.youtube.com/watch?v=1VjPCTe6T0M)
