@@ -72,7 +72,7 @@ Insert the WS and Swagger API into the config file
 5) Filling out the config_snp file
 
 ```bash
-nano config_snp.py
+nano config.py
 ```
 ![image](https://user-images.githubusercontent.com/103894785/175092858-f1999e97-06ad-41db-b050-66b9537c39fa.png)
 
