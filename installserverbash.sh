@@ -24,10 +24,7 @@ pip3 install pytelegrambotapi
 pip3 install cherrypy
 pip3 install pysqlite3
 pip3 install binance-connector
-apt install unzip
-unzip swagger.zip
-ls -l
-python3 setup.py install --user
+pip3 install git+https://github.com/andycryptodev/swagger.git
 
 #Generation of self-signed SSL certificates
 
@@ -35,6 +32,5 @@ apt-get install openssl
 openssl genrsa -out webhook_pkey.pem 2048
 openssl req -new -x509 -days 3650 -key webhook_pkey.pem -out webhook_cert.pem
 
-ls -l 
-
-
+ls
+python3 --version
