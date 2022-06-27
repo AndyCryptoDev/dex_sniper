@@ -32,7 +32,7 @@ This price includes: 24/7 support and regular updates
 
 This repository contains the files required for its operation. The bot itself, we send you separately.
 
-Let's start configuring the server to run the bot immediately after purchase.
+Let's start configuring the server to run the bot immediately.
 
 1) Clone the repository to your server. Use this command:
 
