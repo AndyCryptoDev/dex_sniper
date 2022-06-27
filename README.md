@@ -57,17 +57,7 @@ We will be asked to enter some information about ourselves: two-letter country c
 
 <img width="464" alt="2" src="https://user-images.githubusercontent.com/103894785/163727879-9b995bfa-3f88-47ad-b7c1-40748ab255f4.png">
 
-4) Get web socket and swagger api from [moralis](https://legacy.moralis.io/)
-
-Register and follow the steps shown in the picture:
-
-![3](https://user-images.githubusercontent.com/103894785/163727778-66abae72-28c4-4b4f-8069-9718dea9ffb0.jpg)
-
-![4](https://user-images.githubusercontent.com/103894785/163727789-01962dc3-8e4a-4a33-970b-64513cecc1c2.jpg)
-
-![6](https://user-images.githubusercontent.com/103894785/163727795-b6094e06-382f-451b-8213-548b25992f73.jpg)
-
-Insert the WS and Swagger API into the config file
+4) Get BSC WebSocket endpoint from [QuickNode](https://www.quicknode.com/)
 
 5) Filling out the config_snp file
 
