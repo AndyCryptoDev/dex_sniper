@@ -24,7 +24,6 @@ pip3 install pytelegrambotapi
 pip3 install cherrypy
 pip3 install pysqlite3
 pip3 install binance-connector
-#pip3 install git+https://github.com/andycryptodev/swagger.git
 
 #Generation of self-signed SSL certificates
 
