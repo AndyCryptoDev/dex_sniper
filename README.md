@@ -1,4 +1,4 @@
-# fast_sniper
+# dex_sniper
 
 ![image](https://user-images.githubusercontent.com/103894785/177058459-12d033cb-1197-4f50-821c-559b42f92d72.png)
 
@@ -36,13 +36,13 @@ Let's start configuring the server to run the bot immediately.
 1) Clone the repository to your server. Use this command:
 
 ```bash
-git clone https://github.com/AndyCryptoDev/fast_sniper.git
+git clone https://github.com/AndyCryptoDev/dex_sniper.git
 ```
 
-2) From 'fast_sniper' directory you need run bash script. Use this command:
+2) From 'dex_sniper' directory you need run bash script. Use this command:
 
 ```bash
-cd fast_sniper && chmod +x ./installserverbash.sh && ./installserverbash.sh
+cd dex_sniper && chmod +x ./installserverbash.sh && ./installserverbash.sh
 ```
 A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
 
