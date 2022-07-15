@@ -11,7 +11,7 @@ This bot will allow you to earn very quickly right at the start of trading! But 
 
 ## Our bot is implemented through a telegram bot. Using the Binance Smart Chain WSS endpoint.
 
-Its ready for BSC now and active testing: Polygon, Ethereum, Cronos networks.
+Its ready for BSC, Ethereum, Polygon and Cronos now.
 
 Requirements:  Server Ubuntu 20.04; webhooks; python3.8 with libraries web3, pytelegrambotapi, cherrypy, pysqlite3; WSS Endpoint Binance Smart Chain; SFTP file manager.
 
@@ -28,7 +28,6 @@ This price includes: 24/7 support and regular updates
 - Contact: https://t.me/andycryptodev
 
 ## [DOCS](https://snpdocs.sniperbot.top)
-## [Channel](https://t.me/fast_wallet_channel)
 
 This repository contains the files required for its operation. The bot itself, we send you separately.
 
@@ -62,7 +61,7 @@ We will be asked to enter some information about ourselves: two-letter country c
 5) Filling out the config_snp file
 
 ```bash
-nano config.py
+nano config_snp.py
 ```
 ![image](https://user-images.githubusercontent.com/103894785/175092858-f1999e97-06ad-41db-b050-66b9537c39fa.png)
 
