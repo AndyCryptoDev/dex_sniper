@@ -24,6 +24,7 @@ pip3 install pytelegrambotapi
 pip3 install cherrypy
 pip3 install pysqlite3
 pip3 install binance-connector
+pip3 install --upgrade certifi
 
 #Generation of self-signed SSL certificates
 
