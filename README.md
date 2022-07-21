@@ -20,8 +20,8 @@ Requirements:  Server Ubuntu 20.04; webhooks; python3.8 with libraries web3, pyt
 To grow our team we rent out this bot for: a month or full version purchase
 
 Price:
-- 1 month - $399
-- full version purchase - $2999
+- 1 month - $249
+- full version purchase - $1500
 
 This price includes: 24/7 support and regular updates
 
